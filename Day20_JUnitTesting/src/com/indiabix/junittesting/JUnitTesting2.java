@@ -1,10 +1,11 @@
 package com.indiabix.junittesting;
 
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-public class Example2 {
+public class JUnitTesting2 {
 	@Test
 	void print()
 	{
@@ -22,4 +23,5 @@ public class Example2 {
 		int b=1;
 		assertEquals(a,b);
 	}
+
 }
