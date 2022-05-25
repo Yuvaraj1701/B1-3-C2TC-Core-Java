@@ -1,4 +1,4 @@
-package com.tns.Framework;
+package com.tns.framework;
 
 public abstract class ShopFactory 
 {
